@@ -1,6 +1,5 @@
 body {
     font-size: 1.2rem;
-    background-color: rgb(213, 213, 213);
 }
 .container {
     width: min(80ch, 100vw - 4rem);
@@ -54,7 +53,7 @@ li {
   a {
     display: block;
     padding: 8px;
-    background-color: #4b4b4b;
+    background-color: #dddddd;
   }
   ul {
     list-style-type: none;
@@ -63,11 +62,7 @@ li {
     overflow: hidden;
     background-color: #333;
   }
-  
-  li {
-    float: left;
-  }
-  
+
   li a {
     display: block;
     color: white;
